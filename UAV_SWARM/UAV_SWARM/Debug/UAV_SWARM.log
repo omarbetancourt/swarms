@@ -1,0 +1,4 @@
+﻿  Main.cpp
+  Swarm.cpp
+  Generating Code...
+D:\dev\UAV\UAV_SWARM\UAV_SWARM\Swarm.cpp(47): error C4716: 'Swarm::WgtDirTar': must return a value
